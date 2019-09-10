@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TodoListApp</string>
+    <array name="homeworks">
+        <item>do something</item>
+        <item>do something2</item>
+        <item>do something3</item>
+        <item>do something4</item>
+        <item>do something5</item>
+    </array>
+</resources>
